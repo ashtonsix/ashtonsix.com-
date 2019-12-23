@@ -9,9 +9,9 @@
     "watch-resume": "node src/resume/resume-watch.js",
     "build": "gatsby build && npm run build-resume",
     "now-build": "npm run build",
-    "develop": "gatsby develop",
+    "watch": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
-    "start": "npm run develop",
+    "start": "npm run watch",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
