@@ -7,7 +7,7 @@ const ResumePage = () => (
   <Layout>
     <SEO
       title="Ashton Six's resume"
-      description="Software consultant with 6 years experience"
+      description="Engineering leader with 6 years experience"
       keywords={[`ashton six`, `resume`, `software`]}
       meta={[{'http-equiv': 'refresh', content: '0;url=/resume.pdf'}]}
     />

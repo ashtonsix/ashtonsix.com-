@@ -13,3 +13,5 @@ busier. far away at the edge, new stars appeared. the universe was big once. now
 the aliens, God, her queendom and the angels fit inside a box. when all the
 emptiness was gone, so was time and everything. there is a new emptiness for
 whoever comes next
+
+**end**

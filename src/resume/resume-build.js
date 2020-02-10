@@ -18,7 +18,7 @@ const main = async () => {
   const pdf = await page.pdf({
     path: donePath,
     format: 'A4',
-    margin: {top: '0.5cm', bottom: '0.5cm', left: '0.5cm', right: '0.5cm'}
+    margin: {top: '0.75cm', bottom: '0.75cm', left: '0.5cm', right: '0.5cm'}
   })
 
   await browser.close()
