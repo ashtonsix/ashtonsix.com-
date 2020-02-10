@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "ashtonsix.com",
   "builds": [
     {
       "src": "package.json",

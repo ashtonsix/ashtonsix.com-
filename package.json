@@ -8,7 +8,7 @@
     "build-resume": "node src/resume/resume-build.js",
     "watch-resume": "node src/resume/resume-watch.js",
     "build": "gatsby build && npm run build-resume",
-    "now-build": "npm run build",
+    "now-build": "echo \"Build before deploying!\"",
     "watch": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run watch",
